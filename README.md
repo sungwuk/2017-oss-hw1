@@ -33,7 +33,7 @@ Below, put
 23. Daeyeong(2469) : Java, C, Python
 ```
 24. SeungJin Baek(2149) : Java, C, Python
-
+25. sungwook(2402) : java , C , Python
 ```
 
 Contact: eschough@cnu.ac.kr
